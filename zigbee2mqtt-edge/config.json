@@ -68,5 +68,5 @@
       "rtscts": "bool?"
     }
   },
-  "image": "zigbee2mqtt/zigbee2mqtt-edge-{arch}"
+  "image": "orcas.docker-public.orcas.net/zigbee2mqtt-edge-{arch}"
 }
